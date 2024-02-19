@@ -1,0 +1,4 @@
+enum PermissionGroup {
+  locationAlways,
+  locationWhenInUse
+}
